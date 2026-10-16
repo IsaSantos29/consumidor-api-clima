@@ -19,5 +19,5 @@ Uma aplicação em Python desenvolvida para consultar dados meteorológicos em t
 ### Passo a passo
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git](https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git)
-   cd SEU-REPOSITORIO
+   git clone [https://github.com/IsaSantos29/consumidor-api-clima.git](https://github.com/IsaSantos29/consumidor-api-clima.git)
+   cd consumidor-api-clima.git
